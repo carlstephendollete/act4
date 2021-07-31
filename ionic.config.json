@@ -1,0 +1,7 @@
+{
+  "name": "dollete_act2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
